@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KN-Thinley
 - 👀 I’m interested in Machine Learning and Fullstacks
-- 🌱 I’m currently learning General Coding 
 - 💞️ I’m looking to collaborate on AI and Fullstacks projects
 - 📫 How to reach me ryoutamikasa@gmail.com
 
